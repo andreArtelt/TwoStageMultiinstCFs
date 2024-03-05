@@ -28,3 +28,7 @@ Our proposed evolutionary algorithm for computing multi-instance counterfactual 
 ## License
 
 MIT license - See [LICENSE](LICENSE).
+
+## How to cite
+
+You can cite the version on [arXiv](https://arxiv.org/abs/2403.01221).
