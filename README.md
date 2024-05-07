@@ -35,4 +35,6 @@ MIT license - See [LICENSE](LICENSE).
 
 ## How to cite
 
-You can cite the version on [arXiv](https://arxiv.org/abs/2403.01221).
+Accepted in the late-breaking work track at The 2nd World Conference on eXplainable Artificial Intelligence (xAI-2024).
+
+You can cite the version on [arXiv](https://arxiv.org/abs/2403.01221) until proceedings are available.
