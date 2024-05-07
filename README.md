@@ -10,6 +10,10 @@ In this work, we propose a flexible two-stage algorithm for finding groups of in
 
 ## Details
 
+### Proof of Lemma 1
+
+Can be found next to Lemma 1 in [paper.pdf](paper.pdf).
+
 ### Data
 
 The data sets used in this work are stored in [Implementation/data/](Implementation/data/). Note that many of these .csv files in the data folder were downloaded from https://github.com/tailequy/fairness_dataset/tree/main/experiments/data.
